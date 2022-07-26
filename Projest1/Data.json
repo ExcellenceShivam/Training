@@ -1,0 +1,47 @@
+[
+    {
+        "first_name": "test",
+        "last_name": "user",
+        "age": "10",
+        "email": "test@user.com",
+        "password": "password",
+        "dob": "01/01/2000",
+        "mobile_no": "1234567890"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user",
+        "age": "20",
+        "email": "test@user.com",
+        "password": "password",
+        "dob": "01/01/2000",
+        "mobile_no": "1234567890"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user",
+        "age": "30",
+        "email": "test@user.com",
+        "password": "password",
+        "dob": "01/01/2000",
+        "mobile_no": "1234567890"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user",
+        "age": "40",
+        "email": "test@user.com",
+        "password": "password",
+        "dob": "01/01/2000",
+        "mobile_no": "1234567890"
+    },
+    {
+        "first_name": "test",
+        "last_name": "user",
+        "age": "50",
+        "email": "test@user.com",
+        "password": "password",
+        "dob": "01/01/2000",
+        "mobile_no": "1234567890"
+    }
+]
